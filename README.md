@@ -2,7 +2,7 @@
 ### Hi there 👋, My name is Arpo Roy
 
 
-I am a CSE student. I am currently studying at North South University. I have also worked in web development and learned various programming languages ​​like Java, C, C++, PHP, and JS. So far, I have done projects in Java, C, and web development (done by HTML, CSS, Bootstrap, PHP, and JS series), uploaded on my profile. I have worked mostly with JavaScript, PHP, HTML, and CSS. By far my favorite Programming languages ​​are C++, PHP, and JavaScript.
+I am a CSE student. I am currently studying at North South University. I have also worked in web development and learned various programming languages ​​like Java, C, C++, PHP, and JS. So far, I have done projects in Java, C, and web development (done by HTML, CSS, Bootstrap, PHP, My SQL and JS series), uploaded on my profile. I have worked mostly with JavaScript, PHP, HTML, and CSS. By far my favorite Programming languages ​​are C++, PHP, and JavaScript.
 
 Skills: HTML / CSS / BOOTSTRAP / PHP / JS /JAVA/C++  / My SQL
 
@@ -22,7 +22,5 @@ Skills: HTML / CSS / BOOTSTRAP / PHP / JS /JAVA/C++  / My SQL
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=arpo008&show_icons=true&count_private=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/arpo008/contributions?format=svg&private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=arpo008)  
 

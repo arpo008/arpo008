@@ -10,7 +10,8 @@ Skills: HTML / CSS / BOOTSTRAP / PHP / JS /JAVA/C++  / My SQL
 - 🔭 I’m currently working on My Computer 
 - 🌱 I’m currently learning JS ,React ,Node JS ,Express JS ,MongoDB, Tailwind, Firebase 
 - 👯 I’m looking to collaborate on Github 
-- 📫 How to reach me: Facebook , Twitter, Linkdin 
+- 📫 How to reach me: <a href='https://mail.google.com/mail/u/0/#inbox/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.gmail.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+another : Facebook , Twitter, Linkdin 
 
 
 <h3 align="left">Connect with me:</h3>

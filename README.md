@@ -3,7 +3,7 @@
 # My name is Arpo Roy
 ###### Aspiring to see myself as a skilled full stack developer in Bangladesh , and moving in that direction with small steps.❤❤
 
-I am a CSE student. I am currently studying at North South University. I have also worked in web development and learned various programming languages ​​like Java, C, C++, PHP, and JS. So far, I have done projects in Java, C, and web development (done by HTML, CSS, Bootstrap, PHP, My SQL and JS series), uploaded on my profile. I have worked mostly with JavaScript, PHP, HTML, and CSS. By far my favorite Programming languages ​​are C++, PHP, and JavaScript.
+I am a Computer Science and Engineering student at North South University with a strong background in web development and programming. Over the course of my studies, I have mastered several programming languages including Java, C, C++, PHP, and JavaScript.I have undertaken various projects in Java, C, and web development, which are showcased on my profile. My web development projects leverage HTML, CSS, Bootstrap, PHP, MySQL, and JavaScript. Through these projects, I have honed my skills in creating dynamic and responsive web applications.My extensive experience primarily revolves around JavaScript, PHP, HTML, and CSS. Among the languages I've worked with, my favorites are C++, PHP, and JavaScript due to their versatility and power in different domains of software development.
 
 Skills: HTML / CSS / BOOTSTRAP / PHP / JS /JAVA/C++  / My SQL
 

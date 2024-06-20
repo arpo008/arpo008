@@ -11,9 +11,7 @@ Skills: HTML / CSS / BOOTSTRAP / PHP / JS /JAVA/C++  / My SQL
 - 🌱 I’m currently learning JS ,React ,Node JS ,Express JS ,MongoDB, Tailwind, Firebase 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: **arporoy008@gmail.com**
--  Another : Facebook , Twitter, Linkdin 
-
-
+-  Another : 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/arpo008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="arpo008" height="30" width="40" /></a>

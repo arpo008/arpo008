@@ -6,10 +6,10 @@
 
 I am a Computer Science and Engineering student at North South University with a strong background in web development and programming. Over the course of my studies, I have mastered several programming languages including Java, C, C++, PHP, and JavaScript.I have undertaken various projects in Java, C, and web development, which are showcased on my profile. My web development projects leverage HTML, CSS, Bootstrap, PHP, MySQL, and JavaScript. Through these projects, I have honed my skills in creating dynamic and responsive web applications.My extensive experience primarily revolves around JavaScript, PHP, HTML, and CSS. Among the languages I've worked with, my favorites are C++, PHP, and JavaScript due to their versatility and power in different domains of software development.
 
-Skills: HTML / CSS / BOOTSTRAP / PHP / JS /JAVA/C++  / My SQL
+Skills: HTML / CSS / BOOTSTRAP / PHP / JS /JAVA/C++  / My SQL /PostGres SQL /Tailwind
 
 - 🔭 I’m currently working on My Computer 
-- 🌱 I’m currently learning JS ,React ,Node JS ,Express JS ,MongoDB, Tailwind, Firebase 
+- 🌱 I’m currently React ,Node JS ,Express JS ,MongoDB, Firebase 
 - 👯 I’m looking to collaborate on Github 
 - 📫 How to reach me: **arporoy008@gmail.com**
 -  Another : 
